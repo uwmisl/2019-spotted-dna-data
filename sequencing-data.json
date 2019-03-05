@@ -1,0 +1,87 @@
+{
+    "file-size": {
+        "276000-unique": {
+            "E5": ["/disk1/dnastorage/sequencing/2017_09_01_NEXTSEQ_Run_51/NextSeq_MISL_Experiments-33982958/E5_Beads_DNAStable_75-56120076"]
+        }
+    },
+    "timing": {
+        "120": {
+            "D5": ["/disk1/dnastorage/sequencing/2017_08_09_NEXTSEQ_Run_48/2017_08_09_Run_48/NextSeq_MISL_Experiments-33982958/D5_4drop-54116079"]
+        },
+        "60": {
+            "G9": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G9-55209373"],
+            "G1": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G1_M1_R56-60586620"],
+            "G2": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G2_T4_R56-60584603"]
+        },
+        "30": {
+            "D6": ["/disk1/dnastorage/sequencing/2017_08_09_NEXTSEQ_Run_48/2017_08_09_Run_48/NextSeq_MISL_Experiments-33982958/D6_3drop-54119067"],
+            "G4": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G4-55218284",
+                   "/disk1/dnastorage/sequencing/2017_09_01_NEXTSEQ_Run_51/NextSeq_MISL_Experiments-33982958/G4_DNAStable_85-56107225",
+                   "/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G4_T3_R56-60604563"]
+        },
+        "5": {
+            "F1": [],
+            "G5": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G5-55222199"],
+            "G10": ["/disk1/dnastorage/sequencing/2017_09_01_NEXTSEQ_Run_51/NextSeq_MISL_Experiments-33982958/G10_GenTegra_75-56111250"]
+        },
+        "1": {}
+    },
+    "mass": {
+        "5": {
+            "G8": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G8-55216257"]
+        },
+        "15": {
+            "G7": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G7-55217296"],
+            "G8": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G8_M3_R56-60595568"]
+        },
+        "20": {
+            "G6": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G6-55218285"],
+            "G7": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G7_M2_R56-60602568"]
+        },
+        "40": {
+            "G10": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G10-55220253"],
+            "G1": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G1_M1_R56-60586620"]
+        },
+        "60": {
+            "G9": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G9-55209373"],
+            "G2": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G2_T4_R56-60584603"]
+        }
+    },
+    "multiple-retrieval": {
+        "1": {
+            "G8-S8": ["/disk1/dnastorage/sequencing/2017_07_07_NEXTSEQ_Run_46/Run_46-42921896/S_8-51607613"],
+            "G1": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G1-55205357"],
+            "D6": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/D6_MR_R56-60587595"]
+        },
+        "2": {
+            "G9-S9": ["/disk1/dnastorage/sequencing/2017_07_07_NEXTSEQ_Run_46/Run_46-42921896/S_9-51601734"],
+            "G2": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G2-55218282"],
+            "G6": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G6_MR_R56-60604565"]
+        },
+        "3": {
+            "G10-S10": ["/disk1/dnastorage/sequencing/2017_07_07_NEXTSEQ_Run_46/Run_46-42921896/S_10-51607612"],
+            "G3": ["/disk1/dnastorage/sequencing/2017_08_21_NEXTSEQ_Run_49/2017_08_21_NEXTSEQ_Run_49/MISL_Sequencing-45728683/Spot_G3-55218283"],
+            "G3": ["/disk1/dnastorage/sequencing/2017_10_27_NEXTSEQ_Run_56/2017_10_27_NEXTSEQ_Run_56/MISL_Sequencing-45728683/G3_MR_R56-60601559"]
+        }
+    },
+    "path-contamination": {
+        "1": {
+            "G4-S4": ["/disk1/dnastorage/sequencing/2017_07_07_NEXTSEQ_Run_46/Run_46-42921896/S_4-51595855"]
+        },
+        "2": {
+            "G6-S6": []
+        },
+        "3": {
+            "G7-S7": ["/disk1/dnastorage/sequencing/2017_07_07_NEXTSEQ_Run_46/Run_46-42921896/S_7-51598833"]
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
